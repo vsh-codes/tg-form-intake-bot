@@ -229,7 +229,7 @@ MIT — see [LICENSE](LICENSE). Free to use, modify, and deploy commercially.
 
 ## Contact
 
-Built and maintained by [Valerii Shaposhnikov](https://github.com/vsh-codes).
+Built and maintained by [vsh](https://github.com/vsh-codes).
 
 Available for custom Telegram bot development, AI integrations, and business automation work — [Upwork profile](https://www.upwork.com/freelancers/~01valerii) (placeholder, update with real URL).
 
