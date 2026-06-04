@@ -98,7 +98,7 @@ This bot replaces all three. Self-hosted, $0/mo running cost (besides VPS), full
 ### 2. Clone and configure
 
 ```bash
-git clone https://github.com/vsh-dev/tg-form-intake-bot.git
+git clone https://github.com/vsh-codes/tg-form-intake-bot.git
 cd tg-form-intake-bot
 cp .env.example .env
 # Edit .env with your tokens, sheet ID, admin chat ID
@@ -229,7 +229,7 @@ MIT — see [LICENSE](LICENSE). Free to use, modify, and deploy commercially.
 
 ## Contact
 
-Built and maintained by [Valerii Shaposhnikov](https://github.com/vsh-dev).
+Built and maintained by [Valerii Shaposhnikov](https://github.com/vsh-codes).
 
 Available for custom Telegram bot development, AI integrations, and business automation work — [Upwork profile](https://www.upwork.com/freelancers/~01valerii) (placeholder, update with real URL).
 
